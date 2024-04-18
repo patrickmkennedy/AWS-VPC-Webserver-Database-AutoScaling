@@ -91,4 +91,4 @@ Detailed view of the main webserver EC2 instance.
 
 Details of the Amazon Machine Image used for the web servers.
 
-![AMI](image/readme/ami.png)
+![AMI](ami.png)
